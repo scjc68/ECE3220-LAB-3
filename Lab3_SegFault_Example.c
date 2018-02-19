@@ -8,7 +8,7 @@ void tester(int* c, int k) {
 
 int main(int argc, char* argv[]) {
 	int i = 0, j, k;
-	int x[1000];
+	int x[10000];
 	
 	while(i < 1000){
 		x[i] = i;
